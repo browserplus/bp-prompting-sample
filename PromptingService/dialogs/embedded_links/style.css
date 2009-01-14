@@ -1,0 +1,43 @@
+body {
+  font-size: 80%;
+  font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+  color: #333;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+  background: #E9E9E9;
+}
+
+#title {
+  font-size: 170%;
+  font-weight: bold;
+  padding: 20px 0 0px 20px;
+}
+
+#my_links {
+  text-align: center;		  
+  position: absolute;
+  top: 95px;
+  left: 18px;
+  width: 380px;
+  height: 56px;
+  overflow: auto;
+}
+
+#description {
+  padding: 0 20px 10px 20px;
+}
+
+#browserplus_logo {
+  position: absolute;
+  top: 180px;
+  left: 20px;
+}
+
+#all_done_button {
+  position: absolute;
+  top: 190px;
+  left: 330px;
+}

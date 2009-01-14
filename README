@@ -1,0 +1,18 @@
+What Is This?
+
+A very simple sample Ruby BrowserPlus service that demonstrates the
+undocumented (at time of writing) ability to render custom HTML
+prompts from within services.
+
+How Do I Install this?
+
+1) install BrowserPlus http://browserplus.yahoo.com/install
+2) get the SDK http://browserplus.yahoo.com/developer/service/sdk/
+3) run bpsdk/bin/ServiceInstaller PromptingService
+4) test the service:
+  a) visit http://browserplus.yahoo.com/developer/services/
+  b) click activated
+  c) click on PromptingService
+  d) test the functions!
+
+ 

@@ -1,0 +1,54 @@
+body {
+  font-size: 80%;
+  font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+  color: #333;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+  background: #E9E9E9;
+  padding: 5px;
+}
+
+#title {
+  font-size: 170%;
+  font-weight: bold;
+  padding: 20px 0 0px 20px;
+}
+
+#description {
+  padding: 0 20px 10px 20px;
+}
+
+#toppings {
+  padding: 10px 0 0 20px;
+}
+
+#input_form {
+  padding: 0 20px 10px 20px;
+}
+
+#component_list .component {
+  padding: 0px;
+  width: 555px;
+  border-bottom: 1px solid #E9E9E9;
+}
+
+#browserplus_logo {
+  position: absolute;
+  top: 350px;
+  left: 200px;
+}
+
+#no_way_button {
+  position: absolute;
+  top: 180px;
+  left: 401px;
+}
+
+#all_done_button {
+  position: absolute;
+  top: 300px;
+  left: 150px;
+}
