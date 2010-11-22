@@ -1,18 +1,8 @@
-What Is This?
-
+This repo can be used to build the BrowserPlus prompting sample service.
 A very simple sample Ruby BrowserPlus service that demonstrates the
 undocumented (at time of writing) ability to render custom HTML
 prompts from within services.
 
-How Do I Install this?
-
-1) install BrowserPlus http://browserplus.yahoo.com/install
-2) get the SDK http://browserplus.yahoo.com/developer/service/sdk/
-3) run bpsdk/bin/ServiceInstaller PromptingService
-4) test the service:
-  a) visit http://browserplus.yahoo.com/developer/services/
-  b) click activated
-  c) click on PromptingService
-  d) test the functions!
-
+This service uses submodules browserplus/bakery, and browserplus/bp-service-framework.
  
+Instructions to build the service are in the file BUILDING.
