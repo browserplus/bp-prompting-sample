@@ -5,7 +5,7 @@ how to build:
  cd external && ruby build.rb && cd ..
  rm -rf build && mkdir build && cd build
  cmake ../sr
- make (devenv PromptingSample.sln on Windows)
+ make (devenv PromptingSampleRuby.sln on Windows)
  cd test && ruby ./runtests.rb && cd ..
  
 A directory PromptingSample should be generated which is your service ready to 
