@@ -2,12 +2,12 @@
   "type": "dependent",
   "uses": {
     "corelet": "RubyInterpreter",
-	"version": "4"
+    "version": "4"
   },
   "arguments": {
-    "ScriptFile": "promptingTest.rb"
+    "ScriptFile": "service.rb"
   },
-  "strings" : {
+  "strings": {
     "en": {
       "title": "Yahoo! Finance Connector",
       "summary": "Enable websites to easily display stock quotes from Yahoo! Finance"
